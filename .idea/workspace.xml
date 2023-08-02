@@ -16,6 +16,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2SkB4WvzsHxgR4Nb20r2bzXnWnS" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -27,13 +30,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "19.7.0",
+    "javascript.nodejs.core.library.typings.version": "20.4.5",
     "last_opened_file_path": "/Users/dusanboocz/Documents/My_Projects/React/Schwarzmuller/Food-Order-App",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "/usr/local/Cellar/node/19.7.0/bin/node",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "preferences.editor",
     "ts.external.directory.path": "/Users/dusanboocz/Documents/My_Projects/React/Schwarzmuller/Food-Order-App/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   },
@@ -62,8 +68,18 @@
       <option name="presentableId" value="Default" />
       <updated>1689680507195</updated>
       <workItem from="1689680509193" duration="28000" />
-      <workItem from="1689680554785" duration="12752000" />
+      <workItem from="1689680554785" duration="16825000" />
+      <workItem from="1690710425205" duration="9216000" />
+      <workItem from="1690815468365" duration="14161000" />
     </task>
+    <task id="LOCAL-00001" summary="basic functionality">
+      <created>1689763042807</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689763042807</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,5 +88,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="basic functionality" />
     <option name="LAST_COMMIT_MESSAGE" value="basic functionality" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/store/cartProvider.tsx</url>
+          <line>53</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
